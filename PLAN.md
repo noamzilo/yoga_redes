@@ -65,7 +65,7 @@ wa.me/message/UTFRMMULH3U6L1
 | YouTube long video | Yes: first line of the description. Also a pinned comment with the link. | |
 | YouTube Shorts | Not in the description (YouTube's rule since 2023). | Add the long video as the Short's "related video": it is clickable, and the long video has the link. |
 | Facebook | Yes: the link in the description. Check it in the tools test. | |
-| Instagram Reels | Not in the description, for normal accounts. | Share every Reel to your Story with a **link sticker** to WhatsApp. Keep a Story highlight "Clase gratis" with the link. Plus the bio link and the SALUD message. |
+| Instagram Reels | Not in the description, for normal accounts. | Share every Reel to your Story with a **link sticker** to WhatsApp. Keep a Story highlight "Clase de regalo" with the link. Plus the bio link and the SALUD message. |
 | TikTok | Not in the description. | The bio link. Plus SALUD comments, answered by hand. |
 
 ## The call to action
