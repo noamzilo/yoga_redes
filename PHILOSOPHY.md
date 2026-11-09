@@ -46,7 +46,7 @@
 ## The videos
 
 - Formats: a guided session, one topic in depth, or a list ("4 ejercicios para..."). Lists have the best backing: physio channels with 21,000 to 102,000 subscribers got 9 to 30 times their size in views. Search and validate more ideas like this with Claude Code.
-- First sentence: what they will get, in the same words as the title and the caption. Title "4 ejercicios para la escoliosis" → "En este video te muestro 4 ejercicios para la escoliosis." Then: "Soy Majo, licenciada en kinesiología."
+- First sentence: what they will get, in the same words as the title and the caption. Title "4 ejercicios para la escoliosis" → "En este video te muestro 4 ejercicios para la escoliosis."
 - Show the pose, say its name, do it, narrate while you do it.
 - Call to action at the start and the end, said out loud and as text at the end: "Comentá SALUD o tocá el link: tu primera clase privada de regalo."
 - Never promise healing: "Si tenés una lesión, consultá a un profesional."

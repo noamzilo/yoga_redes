@@ -46,7 +46,7 @@
 ## Los videos
 
 - Formatos: una clase guiada, un tema en profundidad, o una lista ("4 ejercicios para..."). Las listas son las que más respaldo tienen: canales de kinesiología con 21.000 a 102.000 suscriptores tuvieron entre 9 y 30 veces su tamaño en vistas. Buscá y validá más ideas así con Claude Code.
-- Primera frase: lo que van a recibir, con las mismas palabras que el título y la descripción. Título "4 ejercicios para la escoliosis" → "En este video te muestro 4 ejercicios para la escoliosis." Después: "Soy Majo, licenciada en kinesiología."
+- Primera frase: lo que van a recibir, con las mismas palabras que el título y la descripción. Título "4 ejercicios para la escoliosis" → "En este video te muestro 4 ejercicios para la escoliosis."
 - Mostrá la postura, decí su nombre, hacela, y contá lo que hacés mientras lo hacés.
 - Llamado a la acción al principio y al final, dicho en voz alta y como texto al final: "Comentá SALUD o tocá el link: tu primera clase privada de regalo."
 - Nunca prometas curar: "Si tenés una lesión, consultá a un profesional."
